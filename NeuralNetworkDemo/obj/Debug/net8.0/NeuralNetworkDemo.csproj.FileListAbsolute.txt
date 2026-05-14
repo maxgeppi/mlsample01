@@ -1,0 +1,14 @@
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/bin/Debug/net8.0/NeuralNetworkDemo
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/bin/Debug/net8.0/NeuralNetworkDemo.deps.json
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/bin/Debug/net8.0/NeuralNetworkDemo.runtimeconfig.json
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/bin/Debug/net8.0/NeuralNetworkDemo.dll
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/bin/Debug/net8.0/NeuralNetworkDemo.pdb
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.AssemblyInfoInputs.cache
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.AssemblyInfo.cs
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.csproj.CoreCompileInputs.cache
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.dll
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/refint/NeuralNetworkDemo.dll
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.pdb
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/NeuralNetworkDemo.genruntimeconfig.cache
+/home/ubuntu/repos/mlsample01/NeuralNetworkDemo/obj/Debug/net8.0/ref/NeuralNetworkDemo.dll
